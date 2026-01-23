@@ -21,7 +21,6 @@ I love red- the loud kind that screams chaos.
 
 ## Things I know
 - python (home turf)
-- physics (read Irodov 'cause I was bored?)
-- keyboard (hindustani + basics of western)
+- physics (read a few Russian authors 'cause I was bored?)
 - jupyter notebooks
 - brainstorming - aggressively 
