@@ -1,6 +1,6 @@
 # Hi! 
 
-I am a 16-year-old developer who writes both **code and poetry**.
+I am a 17-year-old developer who writes both **code and poetry**.
 
 I believe magic is basically applied physics- *wand* is logic and *spells* are still being found. 
 Codes and words are the heroes behind the scenes we tend to ignore.
