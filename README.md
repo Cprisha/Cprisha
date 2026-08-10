@@ -7,8 +7,8 @@ Codes and words are the heroes behind the scenes we tend to ignore.
 
 Some days I debug scripts *and some days I debug myself*.
 
-I love to read books- the fiction that feel like therapy.
-I love to code- the quite kind of stuff that listens and sticks.
+I love to read books- fiction that feels like therapy.
+I love to code- the quiet kind of stuff that listens and sticks.
 I love red- the loud kind that screams chaos.
 
 ## What do I do?
@@ -23,4 +23,5 @@ I love red- the loud kind that screams chaos.
 - python (home turf)
 - physics (read a few Russian authors 'cause I was bored?)
 - jupyter notebooks
-- brainstorming - aggressively 
+- brainstorming - aggressively
+- overthinking (PhD)
